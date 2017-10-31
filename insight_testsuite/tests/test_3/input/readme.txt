@@ -1,0 +1,1 @@
+input file same as itcont_2018_invalid_dates.txt from http://classic.fec.gov/finance/disclosure/ftpdet.shtml

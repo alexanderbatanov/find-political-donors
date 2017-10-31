@@ -1,0 +1,1 @@
+input file same as itcont_2018_20170908_20171103.txt from http://classic.fec.gov/finance/disclosure/ftpdet.shtml
